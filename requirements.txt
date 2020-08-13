@@ -1,0 +1,13 @@
+certifi==2018.11.29
+chardet==3.0.4
+idna==2.8
+Pillow==5.4.1
+PyAutoGUI==0.9.41
+PyGetWindow==0.0.4
+PyMsgBox==1.0.6
+PyMySQL==0.9.3
+PyRect==0.1.4
+PyScreeze==0.1.19
+PyTweening==1.0.3
+requests==2.21.0
+urllib3==1.24.1
